@@ -1,0 +1,62 @@
+@media  screen and (min-width: 576px) and (max-width: 1024px) {
+    .header {
+        background: #FFF;
+        padding: 0px 20px;
+    }
+       
+ 
+
+
+/* banner styles */
+.banner {
+    background: #FFF;
+    padding: 0px 20px;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    grid-template-columns: repeat(2, 1fr);
+    width: 100%;
+    padding-top: 20px;
+    
+}
+
+
+
+
+
+/*main start here */
+main{
+
+}
+.gamer-section{
+        
+    background: hsl(0, 0%, 100%);
+    padding: 0px 20px;
+    display: grid;
+    justify-content: center;
+    align-items:rgb(237, 180, 180)ter;
+    grid-template-columns: repeat(2, 1fr);
+    width: 100%;
+    padding-top: 40px;
+}
+
+/*card*/
+.card-section{
+    background: #fcf2f2;
+    padding: 20px 40px;
+    
+
+    
+
+}
+    }
+
+
+ 
+
+
+
+
+
+
+    
